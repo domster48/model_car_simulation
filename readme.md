@@ -18,4 +18,4 @@ The goal of this project is to create all features for a racing simulation with 
 - I already made some calculations for the underlying physics which would made the programming relatively easy from that point
 
 
-At the moment I mainly want to know if there are others which are interested in such a project. I'm from germany so any german answer is also welcome.
+At the moment I mainly want to know if there are others which are interested in such a project. I'm from germany so any german answer is also welcome, just pull a request.
