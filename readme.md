@@ -1,7 +1,7 @@
 # Introduction
 
 ## Reason
-I love slotcar racing but I must say that the new Carrera Hybrid thing is very interesting. I also find the Sturmkind Drift Cars very interesting. In my opinion the thoughts behind these products are very good but the realization can be better, at least in my eyes.
+I love slotcar racing but I must say that the new Carrera Hybrid thing is very interesting. I also find the Sturmkind Drift Cars very interesting. In my opinion the thoughts behind these products are very good but the realization can be better, at least in my eyes. The main problems are the 1:50 scale (which must be 1:24 or 1:32 :) ), the bad controlling with smart phone or Controller which includes also the big latency caused by bluetooth.
 
 ## Main Object
 The goal of this project is to create all features for a racing simulation with real scaled speed of RC-Cars with all needed elements.
