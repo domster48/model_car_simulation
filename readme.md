@@ -5,7 +5,7 @@ I love slotcar racing but I must say that the new Carrera Hybrid thing is very i
 
 ## Main Object
 The goal of this project is to create all features for a racing simulation with real scaled speed of RC-Cars with all needed elements.
-1. A board with sensors for a car which controls speed and turning angle so that it behaves realistic in acceleration, deceleration, understeering in turns. In my opinion it would be great if this board is in between a "standard" receiver and "standard" ESC and servo.
+1. A board with sensors for a car which controls speed and turning angle so that it behaves realistic in acceleration, deceleration, understeering in turns. In my opinion it would be great if this board is between a "standard" receiver and the "standard" ESC and servo.
 2. A kind of control center which observes the race (laps, times, pit)
 3. Additional sensors which supports that control center
 
